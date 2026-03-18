@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ゴーゴー幽霊船",
   "base_artist": "米津玄師",
-  "createdAt": "2025-12-14T18:49:45.656096Z",
+  "createdAt": "2026-03-18T07:05:15.353671Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -69,12 +69,29 @@
       "path": "select/08_ゴーゴー幽霊船_(ボーナストラック)_まらしぃ.txt"
     },
     {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船 (ボーナストラック)",
+      "artist": "まらしぃ (Marasy)",
+      "has_synced": false,
+      "path": "select/09_ゴーゴー幽霊船_(ボーナストラック)_まらしぃ_(Marasy).txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "ゴーゴー幽霊船",
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_ゴーゴー幽霊船_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ゴーゴー幽霊船",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/localdb_01_ゴーゴー幽霊船_米津玄師.txt",
+      "repo_name": "2PqxOytUjz0"
     }
   ]
 }
